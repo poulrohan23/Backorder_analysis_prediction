@@ -1,0 +1,24 @@
+1 First Step
+	1. Load libraries and helper functions
+	2. Load data
+	3. Check the Memory Usage
+	4. DataType Converting
+	5. DateTime Parsing
+
+2. Univariable Analysis
+	1. Categorical Analysis
+	2. Target Value analysis
+
+3.A Review on Imbalanced Learning Methods
+	1. Missing Values Analysis
+
+4.Impute Missing Values
+	1. Imputation
+
+5. Model selection using evaluation metrics
+	1. Hierarchy of sampling-based methods
+	2. Cross-validation
+
+6. Random Forrest Model Implementation
+7. Feature Importanace
+8. ROC curve
